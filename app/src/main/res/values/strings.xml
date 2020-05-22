@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">advanceWaferMonitor</string>
+    <string name="backup">backup</string>
+    <string name="delete">delete</string>
+    <string name="settings">settings</string>
+    <string name="main_activity_toolbar_title">Fruits</string>
+
+    <string name="location">Location</string>
+    <string name="friends">Friends</string>
+    <string name="mail">Mail</string>
+    <string name="tasks">Tasks</string>
+    <string name="call">Call</string>
+</resources>
